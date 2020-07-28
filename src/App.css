@@ -1,0 +1,71 @@
+.task-form {
+  margin: 10px;
+}
+
+.task-form input {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+
+
+.task {
+  border: 1px solid gray;
+  padding: 20px;
+  margin: 10px;
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+
+.customTask {
+  color: red
+}
+
+.task input {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+h2{
+  margin: 10px;
+}
+.addbutton{
+
+  color: rgb(250, 246, 246);
+  background-color: #183552;
+  margin-right: 10px;
+  
+  border: none;
+  padding: 6px;
+}
+.updatebutton{
+  color: white;
+  background-color: #321da5;
+  margin-right: 10px;
+  border: none;
+  border-radius: 25%;
+  padding: 6px;
+
+}
+.deletebutton{
+
+  color: white;
+  background-color: #e70707;
+  margin-right: 10px;
+  border: none;
+  border-radius: 25%;
+  padding: 6px;
+}
+.copletebutton{
+  color: white;
+  background-color: #229b12;
+  margin-right: 10px;
+  border: none;
+  border-radius: 25%;
+  padding: 6px;
+
+}
